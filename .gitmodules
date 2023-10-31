@@ -1,5 +1,5 @@
-[submodule "franka-ros"]
-    path = franka-ros
+[submodule "franka_ros"]
+    path = franka_ros
     url = git@github.com:frankaemika/franka_ros.git
 [submodule "realsense-ros"]
     path = realsense-ros
